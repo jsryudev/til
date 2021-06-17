@@ -14,6 +14,7 @@ A collection of software engineering tips that I learn every day.
 
 - [Xcframework](ios/xcframework.md)
 - [Fat Framework](ios/fat-framework.md)
+- [Bitcode](ios/bitcode.md)
 
 ### network
 
