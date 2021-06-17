@@ -1,6 +1,6 @@
 # TIL
 > Today I Learned
-A collection of software engineering tips that I learn every day.
+매일 배우는 개발 지식 모음
 ---
 ### cs
 
