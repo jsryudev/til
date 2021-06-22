@@ -17,7 +17,7 @@ lipo -create "iphone/Foo.framework/Foo" "slmulator/Foo.framework/Foo" -output "F
 $ lipo -i Foo.framework/Foo
 ```
 
-## Foo.framework의 i386 아키텍처 지원을 제거
+## Foo.framework의 i386 architecture 지원을 제거
 
 ```sh
 lipo -remove i386 Foo.framework o Foo.framework
