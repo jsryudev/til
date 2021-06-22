@@ -15,6 +15,7 @@
 - [Xcframework](ios/xcframework.md)
 - [Fat Framework](ios/fat-framework.md)
 - [Bitcode](ios/bitcode.md)
+- [Fat Binary](ios/fat-binary.md)
 
 ### network
 
