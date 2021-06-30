@@ -25,6 +25,10 @@
 
 - [Quic](network/quic.md)
 
+### web
+
+- [Cors](web/cors.md)
+
 ### zsh
 
 - [Take Command](zsh/take-command.md)
