@@ -16,10 +16,11 @@
 
 ### ios
 
-- [Xcframework](ios/xcframework.md)
 - [Fat Framework](ios/fat-framework.md)
 - [Bitcode](ios/bitcode.md)
 - [Fat Binary](ios/fat-binary.md)
+- [App Thinning](ios/app-thinning.md)
+- [Xcframework](ios/xcframework.md)
 
 ### network
 
