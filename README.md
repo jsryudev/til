@@ -5,6 +5,8 @@
 ### architecture
 
 - [Solid](architecture/solid.md)
+- [Inversion Of Control](architecture/inversion-of-control.md)
+- [Pure Di](architecture/pure-di.md)
 
 ### cs
 
