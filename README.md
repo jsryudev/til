@@ -4,8 +4,8 @@
 ---
 ### architecture
 
-- [Solid](architecture/solid.md)
 - [Inversion Of Control](architecture/inversion-of-control.md)
+- [Solid](architecture/solid.md)
 - [Pure Di](architecture/pure-di.md)
 
 ### cs
@@ -18,11 +18,12 @@
 
 ### ios
 
-- [Fat Framework](ios/fat-framework.md)
-- [Bitcode](ios/bitcode.md)
-- [Fat Binary](ios/fat-binary.md)
-- [App Thinning](ios/app-thinning.md)
 - [Xcframework](ios/xcframework.md)
+- [App Thinning](ios/app-thinning.md)
+- [Bitcode](ios/bitcode.md)
+- [Fat Framework](ios/fat-framework.md)
+- [Fat Binary](ios/fat-binary.md)
+- [Hit Test](ios/hit-test.md)
 
 ### network
 
