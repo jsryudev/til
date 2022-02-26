@@ -4,9 +4,11 @@
 ---
 ### architecture
 
+- [Srp](architecture/srp.md)
 - [Inversion Of Control](architecture/inversion-of-control.md)
-- [Pure Di](architecture/pure-di.md)
 - [Solid](architecture/solid.md)
+- [Ocp](architecture/ocp.md)
+- [Pure Di](architecture/pure-di.md)
 
 ### cs
 
@@ -18,12 +20,12 @@
 
 ### ios
 
-- [Fat Binary](ios/fat-binary.md)
-- [Hit Test](ios/hit-test.md)
-- [Xcframework](ios/xcframework.md)
 - [Bitcode](ios/bitcode.md)
+- [Hit Test](ios/hit-test.md)
 - [App Thinning](ios/app-thinning.md)
 - [Fat Framework](ios/fat-framework.md)
+- [Xcframework](ios/xcframework.md)
+- [Fat Binary](ios/fat-binary.md)
 
 ### network
 
@@ -31,8 +33,8 @@
 
 ### tests
 
-- [Mocking](tests/mocking.md)
 - [Stub](tests/stub.md)
+- [Mocking](tests/mocking.md)
 
 ### web
 
