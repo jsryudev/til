@@ -13,7 +13,7 @@
 
 ### 한 객체는 하나의 책임만 가져야 한다.
 
-## Open/closed principle (개방-폐쇄 원칙)
+## [Open-closed principle (개방-폐쇄 원칙)](./ocp.md)
 
 ### 소프트웨어 요소는 확장에는 열려 있으나 변경에는 닫혀 있어야 한다
 
