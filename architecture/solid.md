@@ -9,7 +9,7 @@
 **I**: Interface segregation principle (인터페이스 분리 원칙)  
 **D**: Dependency inversion principle (의존관계 역전 원칙)
 
-## Single responsibility principle (단일 책임 원칙)
+## [Single responsibility principle (단일 책임 원칙)](./srp.md)
 
 ### 한 객체는 하나의 책임만 가져야 한다.
 
