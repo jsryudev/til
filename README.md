@@ -6,8 +6,11 @@
 
 - [SRP](architecture/srp.md)
 - [INVERSION OF CONTROL](architecture/inversion-of-control.md)
+- [ISP](architecture/isp.md)
 - [SOLID](architecture/solid.md)
+- [LSP](architecture/lsp.md)
 - [OCP](architecture/ocp.md)
+- [DIP](architecture/dip.md)
 - [PURE DI](architecture/pure-di.md)
 
 ### cs
