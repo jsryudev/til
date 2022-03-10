@@ -4,43 +4,43 @@
 ---
 ### architecture
 
-- [Srp](architecture/srp.md)
-- [Inversion Of Control](architecture/inversion-of-control.md)
-- [Solid](architecture/solid.md)
-- [Ocp](architecture/ocp.md)
-- [Pure Di](architecture/pure-di.md)
+- [SRP](architecture/srp.md)
+- [INVERSION OF CONTROL](architecture/inversion-of-control.md)
+- [SOLID](architecture/solid.md)
+- [OCP](architecture/ocp.md)
+- [PURE DI](architecture/pure-di.md)
 
 ### cs
 
-- [Green Thread](cs/green-thread.md)
+- [GREEN THREAD](cs/green-thread.md)
 
 ### gcp
 
-- [Cloud Run](gcp/cloud-run.md)
+- [CLOUD RUN](gcp/cloud-run.md)
 
 ### ios
 
-- [Bitcode](ios/bitcode.md)
-- [Hit Test](ios/hit-test.md)
-- [App Thinning](ios/app-thinning.md)
-- [Fat Framework](ios/fat-framework.md)
-- [Xcframework](ios/xcframework.md)
-- [Fat Binary](ios/fat-binary.md)
+- [BITCODE](ios/bitcode.md)
+- [HIT TEST](ios/hit-test.md)
+- [APP THINNING](ios/app-thinning.md)
+- [FAT FRAMEWORK](ios/fat-framework.md)
+- [XCFRAMEWORK](ios/xcframework.md)
+- [FAT BINARY](ios/fat-binary.md)
 
 ### network
 
-- [Quic](network/quic.md)
+- [QUIC](network/quic.md)
 
 ### tests
 
-- [Stub](tests/stub.md)
-- [Mocking](tests/mocking.md)
+- [STUB](tests/stub.md)
+- [MOCKING](tests/mocking.md)
 
 ### web
 
-- [Cors](web/cors.md)
+- [CORS](web/cors.md)
 
 ### zsh
 
-- [Take Command](zsh/take-command.md)
+- [TAKE COMMAND](zsh/take-command.md)
 
