@@ -30,7 +30,7 @@ def main():
 
         for file in files:
             name = os.path.basename(file).split('.')[0]
-            name = " ".join(word.capitalize() for word in name.split('-'))
+            name = " ".join(word.upper() for word in name.split('-'))
             content += "- [{}]({})\n".format(name, os.path.join(category, file))
         content += "\n"
 
