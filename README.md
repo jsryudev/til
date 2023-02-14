@@ -4,14 +4,14 @@
 ---
 ### architecture
 
-- [SRP](architecture/srp.md)
 - [INVERSION OF CONTROL](architecture/inversion-of-control.md)
-- [ISP](architecture/isp.md)
 - [SOLID](architecture/solid.md)
+- [ISP](architecture/isp.md)
 - [LSP](architecture/lsp.md)
 - [OCP](architecture/ocp.md)
-- [DIP](architecture/dip.md)
 - [PURE DI](architecture/pure-di.md)
+- [DIP](architecture/dip.md)
+- [SRP](architecture/srp.md)
 
 ### cs
 
@@ -23,21 +23,24 @@
 
 ### ios
 
-- [BITCODE](ios/bitcode.md)
 - [HIT TEST](ios/hit-test.md)
+- [BITCODE](ios/bitcode.md)
+- [FAT BINARY](ios/fat-binary.md)
+- [XCFRAMEWORK](ios/xcframework.md)
 - [APP THINNING](ios/app-thinning.md)
 - [FAT FRAMEWORK](ios/fat-framework.md)
-- [XCFRAMEWORK](ios/xcframework.md)
-- [FAT BINARY](ios/fat-binary.md)
 
 ### network
 
 - [QUIC](network/quic.md)
 
+### test
+
+
 ### tests
 
-- [STUB](tests/stub.md)
 - [MOCKING](tests/mocking.md)
+- [STUB](tests/stub.md)
 
 ### web
 
